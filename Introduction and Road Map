@@ -1,0 +1,47 @@
+6/15/2025
+There are a few things that I need to understand before fully grasping general relativity on a mathematical level. 
+those things are In no specific order: 
+
+Riemann Curvature Tensor 
+    - https://physicspages.com/pdf/Relativity/Riemann%20tensor%20-%20symmetries.pdf
+
+Ricci Tensor and Ricci Scalar
+    - https://profoundphysics.com/the-ricci-tensor/
+Weyl Tensor
+
+Christoffel Symbols
+
+The Metric Tensor
+    - https://hepweb.ucsd.edu/ph110b/110b_notes/node74.html
+
+Schwarzschild metric
+
+
+
+this also includes a general understanding of 
+tensor analysis 
+differential geometry 
+multivariable calculus 
+linear algebra 
+
+alongside this, I have to do a deep dive into Einstein's Field Equations
+
+ Formulation and Solutions: Understanding the formulation of the Einstein field equations and finding exact solutions like the Schwarzschild solution.
+ Stress-Energy Tensor: Represents the distribution of matter and energy in spacetime.
+
+Additional concepts I might need to understand are 
+
+Special Relativity: 
+    - Lorentz Transformations: Basics of special relativity, which is a prerequisite for understanding general relativity.
+    - Minkowski Space: The flat spacetime of special relativity.
+Mathematical Physics
+
+    - Lagrangian and Hamiltonian Mechanics: These form the basis for formulating classical field theories.
+    - Variational Principles: These are used to derive equations of motion in general relativity.
+
+Understanding the tools needed for this study: 
+  - Software: Familiarize yourself with software tools like Mathematica, Maple, or Python libraries like SymPy and NumPy for symbolic and numerical computations.
+
+
+
+
